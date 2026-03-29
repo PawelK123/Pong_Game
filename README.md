@@ -35,6 +35,7 @@ A faithful recreation of the arcade classic Pong. Two players compete on the sam
 ├── ball.py         # Ball class – movement and bouncing
 ├── paddle.py       # Paddle class – position and controls
 ├── scoreboard.py   # Scoreboard class – score display and updates
+```
 
 
 ---
@@ -45,3 +46,5 @@ A faithful recreation of the arcade classic Pong. Two players compete on the sam
 - Each time a paddle returns the ball, `time.sleep()` decreases — the ball moves faster
 - If the ball passes a paddle and crosses the screen edge, the opponent scores a point and the ball resets
 - The game runs indefinitely until the window is closed
+
+---

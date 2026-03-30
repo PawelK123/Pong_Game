@@ -4,6 +4,11 @@ A classic two-player Pong game built with Python's `turtle` module, using Object
 
 ---
 
+
+https://github.com/user-attachments/assets/97e86aa6-8c43-4c55-8183-f00148e2ff03
+
+
+
 ## 📖 Project Overview
 
 A faithful recreation of the arcade classic Pong. Two players compete on the same keyboard — one controlling the left paddle, the other the right. The ball speeds up with every successful hit, making each rally more intense.
